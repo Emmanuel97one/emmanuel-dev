@@ -1,3 +1,6 @@
+<img width="1919" height="1079" alt="Screenshot 2026-02-28 175456" src="https://github.com/user-attachments/assets/f202a14f-b6ce-4766-873b-cf96c6a61b53" />
+<img width="1911" height="835" alt="Screenshot 2026-03-25 215145" src="https://github.com/user-attachments/assets/fca5904f-9b9b-40ec-b52b-c10ecc0d88ac" />
+<img width="1919" height="1016" alt="Screenshot 2026-04-07 140930" src="https://github.com/user-attachments/assets/c58d6944-b4b2-4619-8aca-db38f8ef4eb5" />
 # 👋 Hello, I'm Emmanuel Irambona
 
 💻 **Software Developer | Business Systems & Embedded Solutions**
